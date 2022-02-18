@@ -8,12 +8,13 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("*******************************************************************");
-			Console.WriteLine("Description:\t This is a program that changes the current directory name and file name to the added value of 1,000.");
-			Console.WriteLine("Company:\t Omti Korea");
-			Console.WriteLine("Responsibility:\t Seyoon Park");
-			Console.WriteLine("Contact:\t seyoon@omti.com");
-			Console.WriteLine("*******************************************************************");
+			Console.WriteLine("**********************************************************************************");
+			Console.WriteLine("* Description:\t\t 이 프로그램은 현재 file name(숫자)에 1,000을 더하도록\t *");
+			Console.WriteLine("* \t\t\t 변경하는 프로그램입니다.\t\t\t\t *");
+			Console.WriteLine("* Company:\t\t SY Company \t\t\t\t\t\t *");
+			Console.WriteLine("* Responsibility:\t Seyoon Park \t\t\t\t\t\t *");
+			Console.WriteLine("* Contact:\t\t psyoona@naver.com \t\t\t\t\t *");
+			Console.WriteLine("**********************************************************************************");
 
 			while (true)
 			{
@@ -27,7 +28,7 @@
 				{
 					continue;
 				}
-				else if(input == "1")
+				else if (input == "1")
 				{
 					Console.WriteLine("Please enter the directory name: ");
 					input = Console.ReadLine();
@@ -64,12 +65,12 @@
 						Console.WriteLine("Directory name change has been completed.");
 					}
 				}
-				else if(input == "2")
+				else if (input == "2")
 				{
 					Console.WriteLine("Please enter the directory name: ");
 					input = Console.ReadLine();
 
-					if(string.IsNullOrEmpty(input))
+					if (string.IsNullOrEmpty(input))
 					{
 						Console.WriteLine("Typed it wrong. Return to the initial screen.");
 					}
@@ -102,7 +103,7 @@
 						Console.WriteLine("File name change has been completed.");
 					}
 				}
-				else if(input == "3")
+				else if (input == "3")
 				{
 					Console.WriteLine("Exit the program");
 					break;

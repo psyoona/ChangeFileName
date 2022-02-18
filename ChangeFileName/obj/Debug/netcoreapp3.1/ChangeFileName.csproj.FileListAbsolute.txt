@@ -1,0 +1,13 @@
+D:\GitProjects\ChangeFileName\ChangeFileName\bin\Debug\netcoreapp3.1\ChangeFileName.exe
+D:\GitProjects\ChangeFileName\ChangeFileName\bin\Debug\netcoreapp3.1\ChangeFileName.deps.json
+D:\GitProjects\ChangeFileName\ChangeFileName\bin\Debug\netcoreapp3.1\ChangeFileName.runtimeconfig.json
+D:\GitProjects\ChangeFileName\ChangeFileName\bin\Debug\netcoreapp3.1\ChangeFileName.runtimeconfig.dev.json
+D:\GitProjects\ChangeFileName\ChangeFileName\bin\Debug\netcoreapp3.1\ChangeFileName.dll
+D:\GitProjects\ChangeFileName\ChangeFileName\bin\Debug\netcoreapp3.1\ChangeFileName.pdb
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.csprojAssemblyReference.cache
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.AssemblyInfoInputs.cache
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.AssemblyInfo.cs
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.csproj.CoreCompileInputs.cache
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.dll
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.pdb
+D:\GitProjects\ChangeFileName\ChangeFileName\obj\Debug\netcoreapp3.1\ChangeFileName.genruntimeconfig.cache
